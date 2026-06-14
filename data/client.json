@@ -14,7 +14,7 @@
     {
       "title": "CIUBĂR JACUZZI",
       "description": "După o zi petrecută în aer liber, nimic nu se compară cu câteva momente de relaxare în ciubărul cu jacuzzi, în timp ce admirați liniștea și peisajele din jur.",
-      "price": "500 ron ( La mai mult de 3 nopți de cazare se oferă reducere 10% sau se oferă ciubărul gratuit)"
+      "price": ""
     },
     {
       "title": "MÂNCARE TRADIȚIONALĂ",
@@ -96,7 +96,7 @@
   "headerShowCallButton": false,
   "heroImageUrl": "/images/cabana-iancu-jina/ChatGPT Image Jun 12, 2026 at 08_26_59 PM.png",
   "heroOverlay": "light",
-  "logoUrl": "/images/cabana-iancu-jina/img_1448.jpg",
+  "logoUrl": "/images/cabana-iancu-jina/IMG_1448.JPG",
   "headerStyle": "transparent",
   "headerScrollSolid": false,
   "natureAccentColor": "",
