@@ -1,0 +1,82 @@
+============================================================
+PENSIUNE / CABANĂ
+============================================================
+Subiect: Idee pentru pensiunea dumneavoastră
+
+
+Bună ziua!
+
+Mă numesc Adrian, sunt dezvoltator web. Am văzut că pensiunea dumneavoastră nu are un site — iar asta înseamnă că mulți clienți care caută pe Google sau Booking pur și simplu nu vă găsesc.
+
+Am făcut un demo să vă arăt cum ar putea arăta:
+👉 https://website-pension-demo.vercel.app
+
+E cu date fictive, dar structura e reală — camere cu poze, galerie, hartă, buton de rezervare. Totul s-ar adapta cu informațiile pensiunii dumneavoastră.
+Nu vă cer nimic, l-am făcut din proprie inițiativă. Dacă nu prezintă interes, îl puteți ignora fără nicio problemă.
+Dacă vă place și vreți să discutăm, mă puteți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086
+
+
+============================================================
+RESTAURANT
+============================================================
+Subiect: Idee pentru restaurantul dumneavoastră
+
+
+Bună ziua!
+
+Mă numesc Adrian, sunt dezvoltator web. Am văzut că restaurantul dumneavoastră nu are un site — iar asta înseamnă că potențialii clienți nu pot vedea meniul sau programul înainte să vină.
+
+Am făcut un demo să vă arăt cum ar putea arăta:
+👉 https://website-restaurant-demo.vercel.app
+
+E cu date fictive, dar structura e reală — meniu, galerie foto, hartă, buton de contact. Totul s-ar adapta cu informațiile restaurantului dumneavoastră
+Nu vă cer nimic, l-am făcut din proprie inițiativă. Dacă nu prezintă interes, îl puteți ignora fără nicio problemă.
+Dacă vă place și vreți să discutăm, mă puteți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086
+
+
+============================================================
+BARBERSHOP / SALON
+============================================================
+Subiect: Idee pentru salonul tău
+
+
+Salut!
+
+Mă numesc Adrian, sunt dezvoltator web. Am văzut că salonul tău nu are un site — și mulți clienți noi caută pe Google înainte să sune.
+
+Am făcut un demo să-ți arăt cum ar putea arăta:
+👉 https://website-barber-demo.vercel.app
+
+E cu date fictive, dar structura e reală — servicii cu prețuri, galerie foto, recenzii și buton direct pe WhatsApp. Totul s-ar adapta cu informațiile salonului tău.
+
+Nu cer nimic, l-am făcut din proprie inițiativă. Dacă nu prezintă interes, îl poți ignora fără nicio problemă.
+Dacă îți place și vrei să discutăm, mă poți contacta oricând.
+O zi bună!
+Adrian — 0737 061 086
+
+
+============================================================
+HOTEL
+============================================================
+Subiect: Idee pentru hotelul dumneavoastră
+
+
+Bună ziua!
+
+Mă numesc Adrian, sunt dezvoltator web. Am văzut că hotelul dumneavoastră nu are un site propriu — iar clienții care nu vă găsesc direct ajung să rezerve prin Booking.com, unde plătiți comision la fiecare rezervare.
+
+Am făcut un demo să vă arăt cum ar putea arăta:
+👉 https://website-hotel-demo.vercel.app
+
+E cu date fictive, dar structura e reală — camere cu poze și prețuri, buton de rezervare direct, galerie foto și hartă. Totul s-ar adapta cu informațiile hotelului dumneavoastră.
+Nu vă cer nimic, l-am făcut din proprie inițiativă. Dacă nu prezintă interes, îl puteți ignora fără nicio problemă.
+Dacă vă place și vreți să discutăm, mă puteți contacta oricând.
+
+O zi bună!
+Adrian — 0737 061 086

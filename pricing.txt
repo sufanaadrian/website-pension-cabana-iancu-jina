@@ -1,0 +1,89 @@
+============================================================
+PACHETE PRINCIPALE
+============================================================
+
+Toate pachetele includ:
+  - Site complet pe telefon și desktop
+  - Galerie foto, hartă, informații de contact
+  - Buton WhatsApp
+  - Domeniu .vercel.app gratuit (sau domeniu propriu cu cost separat)
+  - Livrare în 3–5 zile lucrătoare
+
+------------------------------------------------------------
+PACHET DE BAZĂ — 400 RON (plată unică)
+------------------------------------------------------------
+  - Site cu toate informațiile afacerii (servicii, contact, hartă)
+  - Galerie foto (până la 8 poze)
+  - Formular de contact
+  - Optimizat pentru Google (SEO de bază)
+  - 1 rundă de modificări incluse
+
+------------------------------------------------------------
+PACHET STANDARD — 650 RON (plată unică)
+------------------------------------------------------------
+  Tot ce e în Pachetul de Bază, plus:
+  - Secțiune recenzii / testimoniale
+  - Secțiune întrebări frecvente (FAQ)
+  - Conectare domeniu propriu (ex: pensiuneata.ro)
+  - 2 runde de modificări incluse
+  - Buton rezervare / Booking.com / WhatsApp personalizat
+
+
+------------------------------------------------------------
+PACHET COMPLET — 900 RON (plată unică)
+------------------------------------------------------------
+  Tot ce e în Pachetul Standard, plus:
+  - Secțiuni specifice tipului de afacere (camere, meniu, etc.)
+  - Poze optimizate și redimensionate de mine
+  - 3 runde de modificări în primele 14 zile
+  - Suport tehnic 14 zile după livrare
+
+============================================================
+OPȚIUNI EXTRA (se adaugă la orice pachet)
+============================================================
+
+  Conectare domeniu propriu          +100 RON
+  (dacă nu e inclus în pachet)
+
+  Secțiune menu / listă servicii     +150 RON
+  cu prețuri și categorii
+
+  Formularul de contact cu email     +100 RON
+  (mesajele ajung direct în inbox)
+
+  Mentenanță lunară                   80 RON/lună
+  (modificări text/poze, hosting,
+   suport tehnic continuu)
+
+  Poze profesionale de pe             Gratuit
+  Unsplash / Pexels dacă nu           (inclus)
+  au poze proprii
+
+
+============================================================
+SPECIFIC PE TIP DE AFACERE
+============================================================
+
+PENSIUNE / HOTEL
+  Secțiune camere cu poze,           inclus în Complet
+  prețuri și buton rezervare         +150 RON în celelalte pachete
+  Conectare Booking.com / Airbnb     inclus
+
+RESTAURANT
+  Secțiune meniu cu categorii        inclus în Complet
+  și prețuri                         +150 RON în celelalte pachete
+
+SALON / BARBERSHOP
+  Secțiune servicii cu prețuri       inclus în toate pachetele
+  și buton programare WhatsApp       inclus
+
+============================================================
+NOTE PENTRU DISCUȚII CU CLIENȚII
+============================================================
+
+  - Nu cere avans înainte de a arăta site-ul finalizat
+  - Oferă întâi demo-ul, discutați modificările, apoi plata
+  - Dacă vor domeniu propriu (.ro), costul domeniului e separat
+    (~50–80 RON/an la registratori ca Romhost, Eurodns)
+  - Hosting-ul e gratuit pe Vercel (nu le percepi nimic pentru asta)
+  - Mentenanța lunară e opțională — nu o împinge dacă nu o cer

@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+:root {
+  --background: #111827;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Stop stray decorative/absolute elements from letting the page drift
+   sideways on touch devices, without creating a new scroll container that
+   would break the fixed navbar or the hero height. */
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans, Arial, Helvetica, sans-serif);
+}
+
+/* Typography — `--font-heading` / `--font-body` are set inline on the
+   .theme-* wrapper in app/page.tsx based on business.headingFont / bodyFont,
+   independent of the design variant. */
+.theme-classic,
+.theme-nature,
+.theme-dark,
+.theme-bold {
+  font-family: var(--font-body), var(--font-sans, sans-serif);
+}
+
+.theme-classic h1, .theme-classic h2, .theme-classic h3, .theme-classic h4,
+.theme-nature h1, .theme-nature h2, .theme-nature h3, .theme-nature h4,
+.theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4,
+.theme-bold h1, .theme-bold h2, .theme-bold h3, .theme-bold h4 {
+  font-family: var(--font-heading), serif;
+}
+
+/* Text/icon color for content placed on a `primaryColor` background —
+   `--primary-contrast` is set inline on the .theme-* wrapper from
+   getPrimaryContrastColor() and flips between near-black and near-white
+   depending on how light or dark the chosen primary color is. */
+.text-on-primary { color: var(--primary-contrast, #ffffff); }
+.text-on-primary-80 { color: color-mix(in srgb, var(--primary-contrast, #ffffff) 80%, transparent); }
+
+/* Hide scrollbar for horizontal carousels (e.g. nature testimonials) while
+   keeping the element scrollable. */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Nature variant accent tones — `--nature-accent` is set inline on the
+   .theme-nature wrapper from getNatureAccentColor(). Every text, border and
+   fill in the Nature variant derives from this single color so it stays
+   consistent with whatever accent tint the user picks. */
+.theme-nature {
+  --nature-ink: var(--nature-accent, #3a2a1a);
+}
+.theme-nature .text-nature { color: var(--nature-ink); }
+.theme-nature .text-nature-80 { color: color-mix(in srgb, var(--nature-ink) 80%, transparent); }
+.theme-nature .text-nature-70 { color: color-mix(in srgb, var(--nature-ink) 70%, transparent); }
+.theme-nature .text-nature-60 { color: color-mix(in srgb, var(--nature-ink) 60%, transparent); }
+.theme-nature .text-nature-50 { color: color-mix(in srgb, var(--nature-ink) 50%, transparent); }
+.theme-nature .text-nature-40 { color: color-mix(in srgb, var(--nature-ink) 40%, transparent); }
+.theme-nature .hover\:text-nature:hover { color: var(--nature-ink); }
+
+/* Soft borders, fills and shadows derived from the accent. */
+.theme-nature .border-nature-soft { border-color: color-mix(in srgb, var(--nature-ink) 18%, white); }
+.theme-nature .bg-nature-soft { background-color: color-mix(in srgb, var(--nature-ink) 8%, white); }
+.theme-nature .bg-nature-chip { background-color: color-mix(in srgb, var(--nature-ink) 12%, white); }
+.theme-nature .hover\:bg-nature-soft:hover { background-color: color-mix(in srgb, var(--nature-ink) 8%, white); }
+.theme-nature .shadow-nature-5 { --tw-shadow-color: color-mix(in srgb, var(--nature-ink) 5%, transparent); }
+.theme-nature .shadow-nature-10 { --tw-shadow-color: color-mix(in srgb, var(--nature-ink) 10%, transparent); }
